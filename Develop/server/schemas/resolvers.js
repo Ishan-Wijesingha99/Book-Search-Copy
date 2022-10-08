@@ -5,22 +5,21 @@
 const resolvers = {
     Query: {
         me: (root, args) => {
-            // you can write the code urself, you don't need to use one of their functions to make this work
-
+            
         }
     },
     Mutation: {
-        login: (root, arg) => {
-
+        login: (root, args) => {
+            
         },
         addUser: (root, args) => {
-
+            
         },
         saveBook: (root, args) => {
-
+            
         },
         removeBook: (root, args) => {
-
+            
         }
     }
 }
